@@ -62,7 +62,7 @@ sudo apt install -y protobuf-compiler
 
 For VPS Only
 ```
-apt install screen -y
+sudo apt install screen -y
 ```
 ```
 screen -S nexus
